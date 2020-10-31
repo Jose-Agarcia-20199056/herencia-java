@@ -24,7 +24,7 @@ public class clientes extends persona {
         return cedula;
     }
 
-    public String getEmail() {
+    public String getEmail() { 
         return Email;
     }
     
